@@ -22,7 +22,7 @@
         <artifactId>dubbo-demo</artifactId>
         <version>2.5.10</version>
     </parent>
-    <artifactId>dubbo-demo-provider</artifactId>
+    <artifactId>dubbo-demo-provider-1</artifactId>
     <packaging>jar</packaging>
     <name>${project.artifactId}</name>
     <description>The demo provider module of dubbo project</description>
